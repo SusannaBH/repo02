@@ -10,5 +10,7 @@ Seguidamente lo añadimos con "git add ." para después poder realizar un commit
         git commit -m "Crear commit"
 ![X ERROR X](./crearCommitRepo02.png)
 
+A continuación lo subimos con "git push" para que quede guardado tanto de forma local como de forma remota.
+
 - __RESUMEN__ -
-Hemos aprendido que primero tenemos que crear un repositorio(mkdir) que tendremos que iniciar(init) para trabajar con el, después tenemos que añadir(add) los ficheros que creamos(touch) para así poder después realizar un snapshot(commit) y tener los archivos de forma local/remota.
+Hemos aprendido que primero tenemos que crear un repositorio(mkdir) que tendremos que iniciar(init) para trabajar con el, después tenemos que añadir(add) los ficheros que creamos(touch) para así poder después realizar un snapshot(commit) junto con una subida(push) y tener todos los archivos de forma local/remota.
