@@ -11,4 +11,4 @@ Seguidamente lo añadimos con "git add ." para después poder realizar un commit
 ![X ERROR X](./crearCommitRepo02.png)
 
 - __RESUMEN__ -
-Hemos aprendido que primero tenemos que iniciar(init) el repositorio para trabajar con el, después tenemos que añadir(add) los ficheros que creamos(touch) para así poder después realizar un snapshot(commit) y tener los archivos de forma local/remota.
+Hemos aprendido que primero tenemos que crear un repositorio(mkdir) que tendremos que iniciar(init) para trabajar con el, después tenemos que añadir(add) los ficheros que creamos(touch) para así poder después realizar un snapshot(commit) y tener los archivos de forma local/remota.
